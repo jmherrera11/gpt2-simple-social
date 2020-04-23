@@ -1,0 +1,27 @@
+# Used for all platforms
+social_platform=[twitter/tumblr/reddit]
+social_user=[user or subreddit]
+
+# Used for tumblr API authentication
+tumblr_auth_1=xxxxxx
+tumblr_auth_2=xxxxxx
+tumblr_auth_3=xxxxxx
+tumblr_auth_4=xxxxxx
+
+# Used for twitter API authentication
+twitter_consumer_key=xxxxxx
+twitter_consumer_secret=xxxxxx
+twitter_at_key=xxxxxx
+twitter_at_secret=xxxxxx
+
+# Used for reddit API authentication
+reddit_client_id=xxxxxx
+reddit_client_secret=xxxxxx
+reddit_user_agent=xxxxxx
+
+# Used for machine learning configuration
+model_name=124M
+training_steps=100
+generation_length=1000
+generation_temperature=0.7
+generation_samples=100
